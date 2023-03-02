@@ -61,9 +61,10 @@ I/O:
         - More in week 5.
     - **I2C**: Another type of communication which is slower than Serial but allows multiple devices to share the same bus. Uses pins 4 and 5. You'll know you'll need I2C if you have a device that has `SCL` and `SDA` labelled pins.
 
-### Hello World (20 min)
+### Hello World (30 min)
 
 - INSTALL THE IDE EVERYONE.
+    - If no Arduino then use Tinkercad.
 - I am going to demo. I want everyone to literally copy what I'm doing.
 - What is an IDE?
     - Integrated development environment. Like your workspace for writing code.
