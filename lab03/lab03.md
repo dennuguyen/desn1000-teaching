@@ -63,6 +63,7 @@ I/O:
 ### Hello World (20 min)
 
 - INSTALL THE IDE EVERYONE.
+- I am going to demo. I want everyone to literally copy what I'm doing.
 - What is an IDE?
     - Integrated development environment. Like your workspace for writing code.
     - IDE can connect to the Arduino UNO via USB and communicate with it using serial communication.
