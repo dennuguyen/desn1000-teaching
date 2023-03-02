@@ -41,7 +41,7 @@ Power:
         - Remember `Vin` means INTO the controller.
     - Using an external battery connected to the power jack.
     - If any of these are connected simultaneously then the UNO will figure out which one to use automatically (don't worry about it).
-- Make sure you only supply between 6-20 DC V of power.
+- Make sure you only supply between `6-12 DC V` of power.
     - Going under means your pins might not be powered and you have instability (on/off/on/off).
     - Going over means you might fry your controller.
     - You can check this using a multimeter.
@@ -88,6 +88,7 @@ I/O:
         - This actually verifies and compiles your code into a set of instructions that the Arduino will understand.
 - My code has been uploaded.
     - Open serial monitor. Serial monitor which lets you check live data between Arduino and the IDE.
+    - Make sure the baud rate is set the same to `Serial.begin()`.
     - Can not only read from Arduino but also write to Arduino.
 
 Summary:
