@@ -8,6 +8,7 @@
 - Name, degree, project.
 - Put your hand up and ask questions if you're confused about anything.
 - Don't ask me permission to go toilet. Just go.
+- Ask students if they need any clarification from lecture.
 
 ## Demo
 
