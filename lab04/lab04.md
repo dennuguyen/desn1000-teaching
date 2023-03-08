@@ -23,6 +23,7 @@
 
 ### 3.1 Code Structure and Layout (10 min)
 
+Code constructs:
 - `if-else`
 - `while`
 - `for`
@@ -30,6 +31,7 @@
 - `break`
 - `return`
 
+Code style:
 - Don't repeat yourself (DRY)
 - Keep it simple (KISS)
 - Meaningful variable names -> less comments.
