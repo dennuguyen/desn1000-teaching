@@ -107,7 +107,7 @@ Students need to know how to:
 - Use arrays.
 - `while`.
 - Global variables.
-- How to use `analogRead()`.
+- How to use `digitalWrite()` and `analogRead()`.
 - How to format output with `Serial.print()` and `Serial.println()`.
 - Terminate program with `while (true);`
 
