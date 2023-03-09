@@ -77,6 +77,7 @@ Code style:
 - What is an ultrasonic sensor?
     - It is a sensor which uses sound waves to measure distance.
     - It calculates the time for a sound wave to be emitted, bounce off an object, and come back to the sensor.
+        - **The time is in microseconds.**
     - Therefore, we need to calculate the distance ourselves using `s = vt`.
         - Where `v` is speed of sound.
     - The technical process is:
@@ -84,6 +85,10 @@ Code style:
         1. Send sound wave for a small duration, maybe `10 ms`. Turn on then off.
         1. Read the echo pin for a value. This value is the **time** it took for the sound to travel and back.
         1. Calculate `s = vt`.
+    - `ms2mm = 343.0 / 2.0 / 1000.0`
+        - `343 m/s = 343 mm/ms`
+        - divide by `2` because sound travels twice the distance
+        - divide by `1000` because returned duration is in microseconds and we want milliseconds.
 - Demo using an ultrasonic sensor.
     - Global variables for pins.
     - Set `pinMode()` for pins.
