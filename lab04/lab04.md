@@ -116,4 +116,15 @@ Students need to know how to:
 - How to format output with `Serial.print()` and `Serial.println()`.
 - Terminate program with `while (true);`
 
+1. Put wire in analog pin of Arduino.
+2. Touch pin.
+3. Read analog pin.
+4. Print out value to Serial Monitor.
+
 > If very lost, google the answer. There are lots of examples.
+
+
+### Todo
+
+- Friday is due too soon
+- Post demo code on forum
