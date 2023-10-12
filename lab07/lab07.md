@@ -1,8 +1,5 @@
 # Lab04 Lesson Plan
 
-- Red Centre Lvl 2061
-- 15:00
-
 ## Ice Breakers (5 min)
 
 - How was the break?

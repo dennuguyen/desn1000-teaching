@@ -1,8 +1,5 @@
 # Lab03 Lesson Plan
 
-- Red Centre Lvl 2061
-- 15:00
-
 ## Ice Breakers
 
 - Name, degree, project.
@@ -142,12 +139,12 @@ Sketch structure:
 - Loop.
 
 Datatypes:
-    - `void`
-    - `boolean`
-    - `char`
-    - `int`
-    - `long`
-    - `float`
+- `void`
+- `boolean`
+- `char`
+- `int`
+- `long`
+- `float`
 
 > FYI there is an auto-formatter. Will make your code look nicer.
 

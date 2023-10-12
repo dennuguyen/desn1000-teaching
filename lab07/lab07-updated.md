@@ -47,3 +47,7 @@ Independent research points:
 - Use the ultrasonic sensor to detect if there's an obstacle.
     - We need a threshold to decide how close an obstacle is.
 - Just stop moving forward if there's an obstacle and turn left until there's no more obstacle.
+
+## Further Demo: Servo
+
+- Ask which teams are using servos?
